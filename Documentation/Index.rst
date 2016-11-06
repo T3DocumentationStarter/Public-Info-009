@@ -21,9 +21,9 @@
 .. The following, first section (= headline) is the 'Document Title'.
 
 
-======================
-My Public Info Project
-======================
+===========================================
+ StackOverflow and typo3.stackexchange.com
+===========================================
 
 
 .. The following is 'field list' which is rendered as a horizontal table.
@@ -37,6 +37,9 @@ My Public Info Project
 
 .. toctree::
    :hidden:
+
+   StackOverflow/Index
+   StackExchange/Index
 
    HelloWorld/Index
    Hyperlinks/Index
