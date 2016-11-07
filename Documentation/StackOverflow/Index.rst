@@ -3,8 +3,8 @@
 StackOverflow
 =============
 
-StackOverflow (stackoverflow.com) is a plattform where everyone can ask questions about programming and everyone can answer. 
-For managing the rights you have you must earn reputation points. 
+StackOverflow_ is a plattform where everyone can ask and answer questions about programming. 
+You need to earn reputation points for the rights you have for the site. 
  ====== ============================= ==========================================================
  points privilege                     
  ====== ============================= ==========================================================
@@ -36,7 +36,7 @@ For managing the rights you have you must earn reputation points.
       1 create posts                  Ask a question or contribute an answer
  ====== ============================= ==========================================================
  
-You gain reputation when:
+You gain reputation points when:
 
 - question is voted up: +5
 - answer is voted up: +10
@@ -58,4 +58,25 @@ You lose reputation when:
 - one of your posts receives 6 spam or offensive flags: −100
  
  
-      
+`Stack Overflow <http://en.wikipedia.org/wiki/Stack_Overflow>`_ is part of the `Stack Exchange <http://en.wikipedia.org/wiki/Stack_Exchange>`_ network.      
+
+The Stack Exchange network includes other sides which are handled like Stack Overflow, but with different topics. While Stack Overflow's topic is "Computer Proramming" other **areas** can have other topics.  
+Some Areas have topics which overlap with Stack Overflow as they specialise the covered range.  
+Other Areas have completly different topic with no relation to programming or computer like Puzzling_, Coffee_ or multiple languages. There is an `Overview <http://stackexchange.com/sites>`_ to all these Areas.
+
+New Areas can be created by active users, following the rules given in area51_.
+
+Here we can create our own area for TYPO3 which can hold questions and answers to all topics of TYPO3 (not only programming).
+
+Now (nov 2016) we are in the second phase of `proposal <http://area51.stackexchange.com/proposals/102804/typo3>`_ for **typo3.stackexchange.com**, gathering enough experienced Stack Overflow/ Stack Exchange users who commit to active use the new area.  
+When there will be enough commitments the **private beta** will start where only commiter can use the new area and answer teh questions gathered in the first phase. after enough participation the **public beta** will enable everyone to participate.
+On enough regular traffic in this area it is possible to get an own design. 
+
+
+.. _StackOverflow: http://www.stackoverflow.com
+
+.. _Puzzling: http://puzzling.stackexchange.com
+.. _Coffee: http://coffee.stackexchange.com
+
+.. _Area51: http://area51.stackexchange.com
+
