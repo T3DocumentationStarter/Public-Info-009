@@ -119,7 +119,7 @@ For starting the private beta it is neccessary to have at least
 - a committment score, which is based on the committers activity on all 
   other sites and how old the commitment is
 
-The progress of the proposal in the `_overview <http://area51.stackexchange.com/>` 
+The progress of the proposal in the `overview <http://area51.stackexchange.com/>`__ 
 is the minimum percentage of these three values.
 
 And so the number of committers has not changed since some days, the least value 
