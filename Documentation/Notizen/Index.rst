@@ -13,7 +13,7 @@ Hier einfach erstmal auf Deutsch die weiteren Überlegungen dokumentieren!
 
 Hallo Bernd, du fragst:
 
-  Hi Martin. ich habe mal :doc:`mein Dokument <StackOverflow/Index>` über 
+  Hi Martin. ich habe mal :ref:`mein Dokument <StackOverflow-and-StackExchange>` über 
   Stackoverflow/Stackexchange überarbeitet.
   Welche Chancen existieren jetzt um das irgendwo global zu veröffentlichen?
   
