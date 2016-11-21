@@ -1,10 +1,16 @@
 
-=============
+===============================
+StackOverflow and StackExchange
+===============================
+
 StackOverflow
 =============
 
 StackOverflow_ is a plattform where everyone can ask and answer questions about programming. 
 You need to earn reputation points for the rights you have for the site.
+
+What reputation points do you need?
+-----------------------------------
 
 ====== ============================= ==========================================================
 points privilege                     
@@ -37,6 +43,9 @@ points privilege
      1 create posts                  Ask a question or contribute an answer
 ====== ============================= ==========================================================
  
+How can you get reputation points?
+----------------------------------
+
 You gain reputation points when:
 
 - question is voted up: +5
@@ -44,7 +53,8 @@ You gain reputation points when:
 - answer is marked “accepted”: +15 (+2 to acceptor)
 - suggested edit is accepted: +2 (up to +1000 total per user)
 - bounty awarded to your answer: + full bounty amount
-- one of your answers is awarded a bounty automatically: + half of the bounty amount (see more details about how bounties work)
+- one of your answers is awarded a bounty automatically: + half of the bounty amount 
+  (see more details about how bounties work)
 - site association bonus: +100 on each site (awarded a maximum of one time per site)
 - example you contributed to is voted up: +5
 - proposed change is approved: +2
@@ -59,42 +69,63 @@ You lose reputation when:
 - one of your posts receives 6 spam or offensive flags: −100
  
  
-`Stack Overflow <http://en.wikipedia.org/wiki/Stack_Overflow>`_ is part of the `Stack Exchange <http://en.wikipedia.org/wiki/Stack_Exchange>`_ network.      
+`wiki: Stack Overflow <http://en.wikipedia.org/wiki/Stack_Overflow>`__ is part of the 
+`wiki: Stack Exchange <http://en.wikipedia.org/wiki/Stack_Exchange>`__ network.      
 
-++++++++++++++
 Stack Exchange
-++++++++++++++
+==============
 
-The Stack Exchange network includes other sides which are handled like Stack Overflow, but with different topics and partially different rules. While Stack Overflow's topic is "Computer Proramming" and english only other **areas** can have other topics and sometimes other languages.  
+The Stack Exchange network includes other sites which are handled like StackOverflow  
+but with different topics and partially different rules. While StackOverflow's topic is 
+"Computer Proramming" and english only other **areas** can have other topics and 
+sometimes other languages.  
 There are some areas which cover the programming topic but are for other languages than english.  
-Some Areas have topics which overlap with Stack Overflow (programming) but they specialise the covered range like a special programming language, or a framework, or a CMS.  
-Other Areas have completly different topic with no relation to programming or computer like Puzzling_, Coffee_ or multiple languages (e.g. questions about german idioms, don't confuse with programming questions in non english languages). There is an `Overview <http://stackexchange.com/sites>`_ to all these Areas.
+Some Areas have topics which overlap with StackOverflow (programming) but they specialise the
+covered range like a special programming language, or a framework, or a CMS.  
+Other Areas have completly different topic with no relation to programming or computer like 
+Puzzling_, Coffee_ or multiple languages (e.g. questions about german idioms, don't confuse 
+with programming questions in non english languages). 
+There is an `Overview <http://stackexchange.com/sites>`_ to all these Areas.
 
----------
 New Areas
 ---------
 
 New Areas can be created by active users, following the rules given in area51_.
 
-Here we can create our own area for TYPO3 which can hold questions and answers to all topics of TYPO3 (not only programming).  
-We might change the neccessarity for only english question: As not all TYPO3 users and interestets speak english well we might help them by accepting an automatic translation, which could be enhanced by others as the original (german, french, spanish, ...) question could be added after the automatic translated english version. 
+Here we can create our own area for TYPO3 which can hold questions and answers 
+to all topics of TYPO3 (not only programming). We might change the neccessarity 
+for only english question: As not all TYPO3 users and interestets speak english 
+well we might help them by accepting an automatic translation, which could be 
+enhanced by others as the original (german, french, spanish, ...) question could
+be added after the automatic translated english version. 
 
-Now (nov 2016) we are in the second phase of the `proposal <http://area51.stackexchange.com/proposals/102804/typo3>`_ for **typo3.stackexchange.com**, gathering enough experienced Stack Overflow/ Stack Exchange users who commit to active use the new area.  
-When there will be enough commitments the **private beta** will start where only commiter can use the new area and answer teh questions gathered in the first phase. after enough participation the **public beta** will enable everyone to participate.
-On enough regular traffic in this area it is possible to get an own design. 
+Now (nov 2016) we are in the second phase of the 
+`proposal <http://area51.stackexchange.com/proposals/102804/typo3>`_ for 
+**typo3.stackexchange.com**, gathering enough experienced Stack Overflow/ 
+StackExchange users who commit to active use the new area.  
+When there will be enough commitments the **private beta** will start where 
+only commiter can use the new area and answer the questions gathered in the first
+phase. After enough participation the **public beta** will enable everyone to
+participate. On enough regular traffic in this area it is possible to get an 
+own design. 
 
 For starting the private beta it is neccessary to have at least 
 
 - 200 committers, 
 - 100 Committers which have a reputation of more than 200 in another stack-exchange area
-- a committmend score, which is based on the committers activity on all other sites and how old the commitment is
+- a committment score, which is based on the committers activity on all 
+  other sites and how old the commitment is
 
-The progress of the proposal in the `_overview <http://area51.stackexchange.com/>` is the minimum percentage of these three values.
+The progress of the proposal in the `_overview <http://area51.stackexchange.com/>` 
+is the minimum percentage of these three values.
 
-And so the number of commiters has not changed since some days, the least value of the TYPO3 proposal is the second value. Here we need more activity of everyone on any stack exchange area. This might also be stack overflow, where everyone already can ask and answer questions about TYPO3. Be more active!
+And so the number of committers has not changed since some days, the least value 
+of the TYPO3 proposal is the second value. Here we need more activity of everyone 
+on any stack exchange area. This might also be stack overflow, where everyone already
+can ask and answer questions about TYPO3. Be more active!
 
-As the committmend score will lower with time you can refresh your committment by visiting the proposal page while logged in.
-
+As the committment score will lower with time you can refresh your committment by 
+visiting the proposal page while logged in.
 
 .. _StackOverflow: http://www.stackoverflow.com
 
