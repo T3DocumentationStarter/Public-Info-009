@@ -8,6 +8,9 @@ Notizen (de)
 Hier einfach erstmal auf Deutsch die weiteren Überlegungen dokumentieren!
 
 
+
+.. rst-class:: panel panel-default
+
 2016-11-21
 ==========
 
