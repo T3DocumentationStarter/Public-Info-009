@@ -17,7 +17,7 @@ What reputation points do you need?
 
 ====== ============================= ==========================================================
 points privilege                     
------- ----------------------------------------------------------------------------------------
+====== ========================================================================================
 25,000 access to site analytics      Access to internal and Google site analytics
 20,000 trusted user                  Expanded editing, deletion and undeletion privileges
 15,000 protect questions             Mark questions as protected
