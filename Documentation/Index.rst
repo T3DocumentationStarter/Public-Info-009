@@ -50,7 +50,7 @@ TYPO3 at StackOverflow
    :hidden:
 
    StackOverflow/Index
-   HelloWorld/Index
+   Notizen/Index
    Hyperlinks/Index
    reStructuredText/Index
 
