@@ -80,7 +80,7 @@ Stack Exchange
 
 The Stack Exchange network includes other sites which are handled like StackOverflow  
 but with different topics and partially different rules. While StackOverflow's topic is 
-"Computer Proramming" and english only other **areas** can have other topics and 
+"Computer Programming" and english only other **areas** can have other topics and 
 sometimes other languages.  
 There are some areas which cover the programming topic but are for other languages than english.  
 Some Areas have topics which overlap with StackOverflow (programming) but they specialise the
